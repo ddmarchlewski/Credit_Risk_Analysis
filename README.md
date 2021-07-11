@@ -8,5 +8,6 @@ In this project, we are asked to predict credit risk. We predict it by using Pyt
 
 ## Results
 RandomOverSampler Module
+- This module's accuracy test was 67%. 
 ![oversampling](https://user-images.githubusercontent.com/80054925/125202478-675b9300-e239-11eb-9239-860c096a93de.png)
 

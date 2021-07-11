@@ -52,3 +52,12 @@ BalancedRandomForest
 - Recall low risk is at 88%.
 
 ![balanced_classifier](https://user-images.githubusercontent.com/80054925/125203054-53fdf700-e23c-11eb-80ab-7ecc83c58e0d.png)
+
+Easy Ensemble AdaBoost Classifier
+- This modules accuracy test is 92%.
+- Precision high risk is at 9%.
+- Precision low risk is at 100%.
+- Recall high risk is at 89%.
+- Recall low risk is at 94%.
+
+![Adaboost_classifier](https://user-images.githubusercontent.com/80054925/125203233-3bdaa780-e23d-11eb-8ed7-739950cbc289.png)

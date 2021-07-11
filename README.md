@@ -43,3 +43,12 @@ SMOTEENN Combination
 - Recall low risk is at 57%.
 
 ![combined_sampling](https://user-images.githubusercontent.com/80054925/125202945-ae4a8800-e23b-11eb-9144-55a5fafacf8c.png)
+
+BalancedRandomForest
+- This modules accuracy test is 77%.
+- High_risk is low with 3%.
+- Low_risk is 100%.
+- Recall high risk is at 65%.
+- Recall low risk is at 88%.
+
+![balanced_classifier](https://user-images.githubusercontent.com/80054925/125203054-53fdf700-e23c-11eb-80ab-7ecc83c58e0d.png)

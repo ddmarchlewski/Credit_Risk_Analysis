@@ -9,8 +9,8 @@ In this project, we are asked to predict credit risk. We predict it by using Pyt
 ## Results
 RandomOverSampler Module
 - This module's accuracy test is 65%. 
-- High_risk is low with 1%.
-- Low_risk is 100%.
+- Precision high risk is at 1%.
+- Precision low risk is at 100%.
 - Recall high risk is at 69%.
 - Recall low risk is at 60%.
 
@@ -18,8 +18,8 @@ RandomOverSampler Module
 
 SMOTE Oversample
 - This module's accuracy test is 66%.
-- Hish_risk is low with 1%.
-- Low_risk is 100%.
+- Precision high risk is at 1%.
+- Precision high risk is at 100%.
 - Recall high risk is at 63%.
 - Recall low risk is at 69%. 
 
@@ -27,8 +27,8 @@ SMOTE Oversample
 
 Cluster Centroid Undersampling
 - This module's accuracy test is 66%
-- High_risk is low with 1%
-- Low_risk is 100%. 
+- Precision high risk is at 1%
+- Precision low risk is at 100%. 
 - Recall high risk is at 69%.
 - Recall low risk is at 40%.
 
@@ -37,8 +37,8 @@ Cluster Centroid Undersampling
 
 SMOTEENN Combination
 - This module's accuracy test is 54%.
-- High_risk is low with 1%.
-- Low_risk is 100%.
+- Precision high risk is at 1%.
+- Precision low risk is at 100%.
 - Recall high risk is at 72%.
 - Recall low risk is at 57%.
 
@@ -46,8 +46,8 @@ SMOTEENN Combination
 
 BalancedRandomForest
 - This modules accuracy test is 77%.
-- High_risk is low with 3%.
-- Low_risk is 100%.
+- Precision high risk is at 3%.
+- Precision low risk is at 100%.
 - Recall high risk is at 65%.
 - Recall low risk is at 88%.
 

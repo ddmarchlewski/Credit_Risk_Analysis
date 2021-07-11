@@ -32,7 +32,8 @@ Cluster Centroid Undersampling
 - Recall high risk is at 69%.
 - Recall low risk is at 40%.
 
-![undersampling](https://user-images.githubusercontent.com/80054925/125202843-22d0f700-e23b-11eb-801b-7c2d67761
+![undersampling](https://user-images.githubusercontent.com/80054925/125202967-cc17ed00-e23b-11eb-8480-2b78ad340ec6.png)
+
 
 SMOTEENN Combination
 - This module's accuracy test is 54%.

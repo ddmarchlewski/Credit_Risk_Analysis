@@ -63,3 +63,4 @@ Easy Ensemble AdaBoost Classifier
 ![Adaboost_classifier](https://user-images.githubusercontent.com/80054925/125203233-3bdaa780-e23d-11eb-8ed7-739950cbc289.png)
 
 ## Summary
+We are trying to find the best model that detects which loans are the highest and lowest risks. The accuracy test's of the first four models are lower compared to the BalancedRandom Forest and Adaboost models. Since you usually want a good balance of precision and recall, I recommend choosing the Easy Ensemble AdaBoost Classifier model to predict high risk loans. This model has the best balance due to its high accuracy score and good balance of precision and recall risks. 

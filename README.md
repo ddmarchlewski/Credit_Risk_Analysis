@@ -16,3 +16,11 @@ RandomOverSampler Module
 
 ![oversampling](https://user-images.githubusercontent.com/80054925/125202478-675b9300-e239-11eb-9239-860c096a93de.png)
 
+SMOTE
+- This module's accuracy test was 66%.
+- Hish_risk is low with 1%.
+- Low_risk is 100%.
+- Recall high risk is at 63%.
+- Recall low risk is at 69%. 
+
+![smote_sampling](https://user-images.githubusercontent.com/80054925/125202749-9fafa100-e23a-11eb-8d8e-8722ad8c67d0.png)
